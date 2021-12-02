@@ -1,2 +1,2 @@
-const nombreUsuario = prompt('Ingrese su nombre')
-alert(`Hola ${nombreUsuario}`)
+lev nombreUsuario = prompt('Ingrese su nombre');
+alert(`Hola ${nombreUsuario}`);
